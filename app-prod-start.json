@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "api-prod",
+            "script": "npm",
+            "args" : "start"
+        }
+    ]
+}
